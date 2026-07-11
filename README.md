@@ -1,6 +1,5 @@
 <p align="center">
-<img width="1024" height="1024" alt="jisuanqi 副本" src="https://github.com/user-attachments/assets/0140fb10-61ef-4f28-87f4-834afa595686" />
-
+<img width="300" height="300" alt="jisuanqi (2)" src="https://github.com/user-attachments/assets/83a82385-367c-487f-8d16-99e9ecffbcd5" />
 </p>
 
 <div align="center">
