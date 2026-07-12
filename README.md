@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Lordly-Tech/MiaoSuan/assets/app_icon.png" width="120" style="border-radius: 24px;" />
+<img width="300" height="300" alt="jisuanqi (2)" src="https://github.com/user-attachments/assets/e213d59d-7b0f-4c5c-a429-b8a899023368" />
 </p>
 
 <div align="center">
